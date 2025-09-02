@@ -63,3 +63,10 @@ L’application est enveloppée par [`VehiclesDemoApp`](lib/widgets/vehicles_dem
   flutter devices
   ```
   Démarrez un simulateur/émulateur ou connectez un appareil.
+
+  # Diagrammes
+
+  - [Première version](./docs/premiere_version.md)
+  - [Seconde version](./docs/seconde_version.md)
+
+  
